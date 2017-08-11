@@ -1,0 +1,22 @@
+
+# PlanAhead Generated physical constraints 
+NET "clk" CLOCK_DEDICATED_ROUTE = "FALSE";
+NET "enable" CLOCK_DEDICATED_ROUTE = "FALSE";
+NET "clk" LOC = P127;
+NET "a" LOC = P4;
+NET "b" LOC = P2;
+NET "c" LOC = P1;
+NET "d" LOC = P141;
+NET "e" LOC = P140;
+NET "f" LOC = P137;
+NET "g" LOC = P135;
+NET "dp" LOC = P132;
+NET "common1" LOC = P5;
+NET "common2" LOC = P6;
+NET "common3" LOC = P131;
+NET "common4" LOC = P130;
+NET "enable" LOC = P25;
+
+# PlanAhead Generated physical constraints 
+
+NET "speaker" LOC = P52;
